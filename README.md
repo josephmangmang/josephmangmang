@@ -1,7 +1,7 @@
-![logo](./images/cover.png)
+![logo](./assets/cover.png)
 <h1 align="center">Hi 👋, I'm Joseph L. Mangmang</h1>
 <h3 align="center">A passionate self-taught Software Engineer from Bohol, Philippines</h3>
-<img align="right" alt="coding" width="400" src="./images/coding.gif"/>
+<img align="right" alt="coding" width="400" src="./assets/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmangmang&label=Profile%20views&color=0e75b6&style=flat" alt="josephmangmang" /> </p>
 
