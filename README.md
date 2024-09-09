@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmangmang&label=Profile%20views&color=0e75b6&style=flat" alt="josephmangmang" /> </p>
 
-- 🔭 I’m currently working on [BlendIT](https://blendit.eu/)
+- 🔭 I’m currently working on [Mobile-Technologies](https://mobile-technologies.com/)
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/TuringPortfolio](https://bit.ly/TuringPortfolio)
 
